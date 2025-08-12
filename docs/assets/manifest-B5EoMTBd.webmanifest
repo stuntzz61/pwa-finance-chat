@@ -1,0 +1,9 @@
+{
+  "name": "FinProject",
+  "short_name": "FinProject",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#2450eb",
+  "icons": []
+}
